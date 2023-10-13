@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+* {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+img {
+    border-radius: 5000px;
+    border: solid 2px red;
+    padding: 25px;
+    margin-left: 100px;
+}
+
+h1, h2 {
+    font-family: fantasy;
+}
+
+a {
+    font-size: 24px;
+}
+
+ol li {
+    color: yellow;
+}
+
+ul li {
+    color: green;
+}
